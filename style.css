@@ -1,16 +1,20 @@
 #para1{
   font-weight: 100;
+  font-family:serif;
 }
  #para2{
    font-weight: 300;
+   font-family: serif;
  }
 
  #para3{
    font-weight: 700;
+   font-family: serif;
  }
 
  #para4{
    font-weight: 900;
+   font-family: serif
  }
 
 h2 {
