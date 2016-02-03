@@ -1,20 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,900);
+
 #para1{
   font-weight: 100;
-  font-family: "Georgia",serif;
+  font-family: "Raleway","Georgia",serif;
 }
  #para2{
    font-weight: 300;
-   font-family: "Gerogia",serif;
+   font-family: "Raleway","Georgia",serif;
  }
 
  #para3{
    font-weight: 700;
-   font-family: "Georgia",serif;
+   font-family: "Raleway","Georgia",serif;
  }
 
  #para4{
    font-weight: 900;
-   font-family: "Georgia",serif;
+   font-family: "Raleway","Georgia",serif;
  }
 
 h2 {
